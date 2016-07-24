@@ -19,9 +19,9 @@ require 'sinatra'
 require "sinatra/reloader" if development?
 
 require 'erb'
-
-require "twilio-ruby"
-require "dotenv"
+require 'annotate'
+require 'twilio-ruby'
+require 'dotenv'
 Dotenv.load
 
 # Some helper constants for path-centric logic

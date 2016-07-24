@@ -1,16 +1,17 @@
 post '/broadcast' do
+  # p params
+  # p params[:body]
+  # p params['Body']
+  # p params[:Body]
+  MessageService.broadcast(
+    phone_numbers: follower_numbers,
+    message: params[:Body],
+  )
+end
+
+def follower_numbers
   Follower
     .joins(:artists)
     .where(artists: {phone_number: params[:From]})
     .pluck(:phone_number)
-    .each(&method(:send_text))
-end
-
-def send_text(phone_number)
-  content_type = 'text/xml'
-  response = Twilio::TwiML::Response.new do |r|
-    r.Message params[:Body]
-  end
-
-  response.to_xml
 end

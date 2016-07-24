@@ -13,6 +13,7 @@ gem 'activerecord', '~>4.2.0'
 gem 'rake'
 
 gem 'shotgun'
+gem 'twilio-ruby'
 
 group :test do
   gem 'shoulda-matchers'
@@ -24,4 +25,6 @@ end
 group :test, :development do
   gem 'factory_girl'
   gem 'faker'
+  gem 'dotenv'
+  gem 'annotate'
 end

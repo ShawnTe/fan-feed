@@ -1,18 +1,16 @@
-require "twilio-ruby"
-require "dotenv"
-Dotenv.load
-
 class MessageService
-  def self.send_message(phone_number)
-    to = phone_number
-    # message = params[:body]
-    message = "hello world?"
-
+  def self.send_message(phone_number:, message:)
     client.messages.create(
-      to: to,
+      to: phone_number,
       from: ENV['TWILIO_NUMBER'],
       body: message
     )
+  end
+
+  def self.broadcast(phone_numbers:, message:)
+    phone_numbers.each do |n| 
+      send_message(phone_number: n, message: message)
+    end
   end
 
   private
@@ -24,5 +22,3 @@ class MessageService
     )
   end
 end
-
-MessageService.send_message("+14156134429")
