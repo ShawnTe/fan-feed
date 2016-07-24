@@ -1,0 +1,632 @@
+[
+  {
+    "name": "AIR",
+    "time": "6:10 - 7:10",
+    "stage": "Lands End",
+    "date": "Aug 6"
+  },
+  {
+    "name": "ANDERSON .PAAK & THE FREE NATIONALS",
+    "time": "7:55 - 8:40",
+    "stage": "Twin Peaks",
+    "date": "Aug 6"
+  },
+  {
+    "name": "Anthony Jeselnik, KYLE KINANE AND CLAUDIA O'DOHERTY",
+    "time": "4:40 - 5:35",
+    "stage": "The Barbary",
+    "date": "Aug 6"
+  },
+  {
+    "name": "BIG GRAMS (BIG BOI + PHANTOGRAM)",
+    "time": "4:40 - 5:40",
+    "stage": "Lands End",
+    "date": "Aug 6"
+  },
+  {
+    "name": "CON BRIO",
+    "time": "4:30 - 5:10",
+    "stage": "Twin Peaks",
+    "date": "Aug 6"
+  },
+  {
+    "name": "DECLAN MCKENNA",
+    "time": "1:25 - 2:05",
+    "stage": "Twin Peaks",
+    "date": "Aug 6"
+  },
+  {
+    "name": "FANTASTIC NEGRITO",
+    "time": "12:40 - 1:25",
+    "stage": "Twin Peaks",
+    "date": "Aug 6"
+  },
+  {
+    "name": "HALSEY",
+    "time": "6:55 - 7:55",
+    "stage": "Twin Peaks",
+    "date": "Aug 6"
+  },
+  {
+    "name": "Harmontown: Dan Harmon & Jeff B. Davis",
+    "time": "12:50 - 1:35",
+    "stage": "The Barbary",
+    "date": "Aug 6"
+  },
+  {
+    "name": "IBEYI",
+    "time": "2:35 - 3:25",
+    "stage": "Sutro",
+    "date": "Aug 6"
+  },
+  {
+    "name": "JAUZ",
+    "time": "5:15 - 6:05",
+    "stage": "Twin Peaks",
+    "date": "Aug 6"
+  },
+  {
+    "name": "John Mulaney & Beth Stelling",
+    "time": "3:25 - 4:15",
+    "stage": "The Barbary",
+    "date": "Aug 6"
+  },
+  {
+    "name": "JULIEN BAKER",
+    "time": "12:00 - 12:45",
+    "stage": "Sutro",
+    "date": "Aug 6"
+  },
+  {
+    "name": "KEVIN MORBY",
+    "time": "2:55 - 3:35",
+    "stage": "Twin Peaks",
+    "date": "Aug 6"
+  },
+  {
+    "name": "LEWIS DEL MAR",
+    "time": "12:45 - 1:30",
+    "stage": "Lands End",
+    "date": "Aug 6"
+  },
+  {
+    "name": "LORD HURON",
+    "time": "3:55 - 4:45",
+    "stage": "Sutro",
+    "date": "Aug 6"
+  },
+  {
+    "name": "METHYL ETHEL",
+    "time": "12:00 - 12:40",
+    "stage": "Twin Peaks",
+    "date": "Aug 6"
+  },
+  {
+    "name": "Motion Potion",
+    "time": "12:00 - 3:00",
+    "stage": "The House by Heineken",
+    "date": "Aug 6"
+  },
+  {
+    "name": "NATASHA LEGGERO, MOSHE KASHER, JOHN EARLY AND JERMAINE FOWLER",
+    "time": "2:05 - 3:00",
+    "stage": "The Barbary",
+    "date": "Aug 6"
+  },
+  {
+    "name": "PEACHES",
+    "time": "6:05 - 6:50",
+    "stage": "Twin Peaks",
+    "date": "Aug 6"
+  },
+  {
+    "name": "Purple Disco Machine",
+    "time": "5:30 - 6:30",
+    "stage": "The House by Heineken",
+    "date": "Aug 6"
+  },
+  {
+    "name": "RADIOHEAD",
+    "time": "7:55 - 9:55",
+    "stage": "Lands End",
+    "date": "Aug 6"
+  },
+  {
+    "name": "ROGUE WAVE",
+    "time": "1:15 - 2:05",
+    "stage": "Sutro",
+    "date": "Aug 6"
+  },
+  {
+    "name": "SUFJAN STEVENS",
+    "time": "6:35 - 7:45",
+    "stage": "Sutro",
+    "date": "Aug 6"
+  },
+  {
+    "name": "THE GODDAMN COMEDY JAM WITH SPECIAL GUESTS Dana Gould, Kyle Kinane, John Early & Beth Stelling",
+    "time": "6:15 - 7:05",
+    "stage": "The Barbary",
+    "date": "Aug 6"
+  },
+  {
+    "name": "THE KNOCKS",
+    "time": "2:05 - 2:55",
+    "stage": "Twin Peaks",
+    "date": "Aug 6"
+  },
+  {
+    "name": "THE LAST SHADOW PUPPETS",
+    "time": "5:15 - 6:05",
+    "stage": "Sutro",
+    "date": "Aug 6"
+  },
+  {
+    "name": "THE WOMBATS",
+    "time": "2:00 - 2:50",
+    "stage": "Lands End",
+    "date": "Aug 6"
+  },
+  {
+    "name": "Translucent",
+    "time": "4:30 - 5:30",
+    "stage": "The House by Heineken",
+    "date": "Aug 6"
+  },
+  {
+    "name": "VICTOR CALDERONE",
+    "time": "6:30 - 8:00",
+    "stage": "The House by Heineken",
+    "date": "Aug 6"
+  },
+  {
+    "name": "VINCE STAPLES",
+    "time": "3:40 - 4:30",
+    "stage": "Twin Peaks",
+    "date": "Aug 6"
+  },
+  {
+    "name": "W.Haze",
+    "time": "3:00 - 4:30",
+    "stage": "The House by Heineken",
+    "date": "Aug 6"
+  },
+  {
+    "name": "YEARS & YEARS",
+    "time": "3:20 - 4:10",
+    "stage": "Lands End",
+    "date": "Aug 6"
+  },
+  {
+    "name": "ZEDD",
+    "time": "8:40 - 9:55",
+    "stage": "Twin Peaks",
+    "date": "Aug 6"
+  },
+  {
+    "name": "OH WONDER",
+    "time": "1:15 - 2:00",
+    "stage": "Lands End",
+    "date": "Aug 7"
+  },
+  {
+    "name": "CLOVES",
+    "time": "1:20 - 2:00",
+    "stage": "Panhandle",
+    "date": "Aug 7"
+  },
+  {
+    "name": "THE OH HELLOS",
+    "time": "1:20 - 2:05",
+    "stage": "Sutro",
+    "date": "Aug 7"
+  },
+  {
+    "name": "Derek Hena",
+    "time": "1:30 - 3:00",
+    "stage": "The House by Heineken",
+    "date": "Aug 7"
+  },
+  {
+    "name": "Sasheer Zamata & Nicole Byer",
+    "time": "1:45 - 2:30",
+    "stage": "The Barbary",
+    "date": "Aug 7"
+  },
+  {
+    "name": "Grensta",
+    "time": "12:00 - 1:30",
+    "stage": "The House by Heineken",
+    "date": "Aug 7"
+  },
+  {
+    "name": "HERON OBLIVION",
+    "time": "12:00 - 12:40",
+    "stage": "Panhandle",
+    "date": "Aug 7"
+  },
+  {
+    "name": "KAMASI WASHINGTON",
+    "time": "12:00 - 12:45",
+    "stage": "Lands End",
+    "date": "Aug 7"
+  },
+  {
+    "name": "FRANCES",
+    "time": "12:05 - 12:50",
+    "stage": "Sutro",
+    "date": "Aug 7"
+  },
+  {
+    "name": "Jo Firestone's Friends of Single People",
+    "time": "12:30 - 1:15",
+    "stage": "The Barbary",
+    "date": "Aug 7"
+  },
+  {
+    "name": "NATALIA LAFOURCADE",
+    "time": "12:40 - 1:20",
+    "stage": "Twin Peaks",
+    "date": "Aug 7"
+  },
+  {
+    "name": "SNAKEHIPS",
+    "time": "2:00 - 2:45",
+    "stage": "Twin Peaks",
+    "date": "Aug 7"
+  },
+  {
+    "name": "THE MUPPETS’ DR. TEETH AND THE ELECTRIC MAYHEM",
+    "time": "2:30 - 2:55",
+    "stage": "Lands End",
+    "date": "Aug 7"
+  },
+  {
+    "name": "JACK GARRATT",
+    "time": "2:35 - 3:25",
+    "stage": "Sutro",
+    "date": "Aug 7"
+  },
+  {
+    "name": "HÆLOS",
+    "time": "2:45 - 3:25",
+    "stage": "Panhandle",
+    "date": "Aug 7"
+  },
+  {
+    "name": "Deckard",
+    "time": "3:00 - 4:30",
+    "stage": "The House by Heineken",
+    "date": "Aug 7"
+  },
+  {
+    "name": "Spontaneanation with Paul F. Tompkins feat. Eban Schletter and guests: Craig Cackowski, Tawny Newsome, Janet Varney",
+    "time": "3:25 - 4:15",
+    "stage": "The Barbary",
+    "date": "Aug 7"
+  },
+  {
+    "name": "THIRD EYE BLIND",
+    "time": "3:25 - 4:25",
+    "stage": "Lands End",
+    "date": "Aug 7"
+  },
+  {
+    "name": "GRIZ",
+    "time": "3:30 - 4:20",
+    "stage": "Twin Peaks",
+    "date": "Aug 7"
+  },
+  {
+    "name": "BRANDI CARLILE",
+    "time": "3:55 - 4:45",
+    "stage": "Sutro",
+    "date": "Aug 7"
+  },
+  {
+    "name": "DIIV",
+    "time": "4:20 - 5:00",
+    "stage": "Panhandle",
+    "date": "Aug 7"
+  },
+  {
+    "name": "GINA TURNER",
+    "time": "4:30 - 6:00",
+    "stage": "The House by Heineken",
+    "date": "Aug 7"
+  },
+  {
+    "name": "FRED ARMISEN & FRIENDS FEAT. BOB MOULD & CHARLYNE YI",
+    "time": "4:45 - 5:35",
+    "stage": "The Barbary",
+    "date": "Aug 7"
+  },
+  {
+    "name": "CHANCE THE RAPPER",
+    "time": "4:55 - 5:55",
+    "stage": "Lands End",
+    "date": "Aug 7"
+  },
+  {
+    "name": "KEHLANI",
+    "time": "5:05 - 5:55",
+    "stage": "Twin Peaks",
+    "date": "Aug 7"
+  },
+  {
+    "name": "JASON ISBELL",
+    "time": "5:15 - 6:05",
+    "stage": "Sutro",
+    "date": "Aug 7"
+  },
+  {
+    "name": "RÜFÜS DU SOL",
+    "time": "5:55 - 6:35",
+    "stage": "Panhandle",
+    "date": "Aug 7"
+  },
+  {
+    "name": "Lee K",
+    "time": "6:00 - 8:00",
+    "stage": "The House by Heineken",
+    "date": "Aug 7"
+  },
+  {
+    "name": "JASH PRESENTS POUND HOUSE LIVE HOSTED BY BRENT WEINBACH & DJ DOUGGPOUND WITH ESTHER POVITSKY & JOHNNY PEMBERTON AND SPECIAL GUEST NATASHA LEGGERO",
+    "time": "6:05 - 6:55",
+    "stage": "The Barbary",
+    "date": "Aug 7"
+  },
+  {
+    "name": "MAJOR LAZER",
+    "time": "6:25 - 7:25",
+    "stage": "Lands End",
+    "date": "Aug 7"
+  },
+  {
+    "name": "RYAN ADAMS AND THE SHINING",
+    "time": "6:35 - 7:50",
+    "stage": "Sutro",
+    "date": "Aug 7"
+  },
+  {
+    "name": "MIGUEL",
+    "time": "6:40 - 7:40",
+    "stage": "Twin Peaks",
+    "date": "Aug 7"
+  },
+  {
+    "name": "LETTUCE",
+    "time": "7:40 - 8:30",
+    "stage": "Panhandle",
+    "date": "Aug 7"
+  },
+  {
+    "name": "LIONEL RICHIE",
+    "time": "8:05 - 9:35",
+    "stage": "Lands End",
+    "date": "Aug 7"
+  },
+  {
+    "name": "LANA DEL REY",
+    "time": "8:25 - 9:35",
+    "stage": "Twin Peaks",
+    "date": "Aug 7"
+  },
+  {
+    "name": "TOKIMONSTA",
+    "time": "4:30 - 5:10",
+    "stage": "Panhandle",
+    "date": "Aug 5"
+  },
+  {
+    "name": "FOALS",
+    "time": "3:50 - 4:40",
+    "stage": "Sutro",
+    "date": "Aug 5"
+  },
+  {
+    "name": "THE CLAYPOOL LENNON DELIRIUM",
+    "time": "5:10 - 6:00",
+    "stage": "Sutro",
+    "date": "Aug 5"
+  },
+  {
+    "name": "CAVEMAN",
+    "time": "1:15 - 2:00",
+    "stage": "Sutro",
+    "date": "Aug 5"
+  },
+  {
+    "name": "JIDENNA",
+    "time": "2:10 - 2:55",
+    "stage": "Twin Peaks",
+    "date": "Aug 5"
+  },
+  {
+    "name": "BEACH HOUSE",
+    "time": "7:50 - 9:00",
+    "stage": "Sutro",
+    "date": "Aug 5"
+  },
+  {
+    "name": "VULFPECK",
+    "time": "2:55 - 3:35",
+    "stage": "Panhandle",
+    "date": "Aug 5"
+  },
+  {
+    "name": "THOMAS JACK",
+    "time": "5:15 - 6:05",
+    "stage": "Twin Peaks",
+    "date": "Aug 5"
+  },
+  {
+    "name": "WET",
+    "time": "2:30 - 3:20",
+    "stage": "Sutro",
+    "date": "Aug 5"
+  },
+  {
+    "name": "John Mulaney & Beth Stelling",
+    "time": "5:35 - 6:25",
+    "stage": "The Barbary",
+    "date": "Aug 5"
+  },
+  {
+    "name": "NATASHA LEGGERO, JOHN EARLY, AND JERMAINE FOWLER",
+    "time": "4:20 - 5:05",
+    "stage": "The Barbary",
+    "date": "Aug 5"
+  },
+  {
+    "name": "DOWN AND OUTLAWS",
+    "time": "12:00 - 12:40",
+    "stage": "Panhandle",
+    "date": "Aug 5"
+  },
+  {
+    "name": "LÅPSLEY",
+    "time": "6:05 - 6:45",
+    "stage": "Panhandle",
+    "date": "Aug 5"
+  },
+  {
+    "name": "RA RA RIOT",
+    "time": "2:05 - 2:55",
+    "stage": "Lands End",
+    "date": "Aug 5"
+  },
+  {
+    "name": "VULFPECK",
+    "time": "2:55 - 3:35",
+    "stage": "Panhandle",
+    "date": "Aug 5"
+  },
+  {
+    "name": "PillowTalk",
+    "time": "6:00 - 8:00",
+    "stage": "The House by Heineken",
+    "date": "Aug 5"
+  },
+  {
+    "name": "LANY",
+    "time": "12:45 - 1:35",
+    "stage": "Lands End",
+    "date": "Aug 5"
+  },
+  {
+    "name": "The Romane Event with Paco Romane & Friends : featuring Moshe Kasher, Josef Anolin, Josh Androsky, Kaseem Bentley, Clare O'Kane, Spencer Devine, David Gborie, Krista Fatka, David Roth, Jane Harrison, and Casey Ley",
+    "time": "1:20 - 2:30",
+    "stage": "The Barbary",
+    "date": "Aug 5"
+  },
+  {
+    "name": "WHITNEY",
+    "time": "12:00 - 12:45",
+    "stage": "Sutro",
+    "date": "Aug 5"
+  },
+  {
+    "name": "MIIKE SNOW",
+    "time": "4:45 - 5:45",
+    "stage": "Lands End",
+    "date": "Aug 5"
+  },
+  {
+    "name": "219 Boys",
+    "time": "1:30 - 3:00",
+    "stage": "The House by Heineken",
+    "date": "Aug 5"
+  },
+  {
+    "name": "Redlight",
+    "time": "4:30 - 6:00",
+    "stage": "The House by Heineken",
+    "date": "Aug 5"
+  },
+  {
+    "name": "MOON TAXI",
+    "time": "1:30 - 2:10",
+    "stage": "Panhandle",
+    "date": "Aug 5"
+  },
+  {
+    "name": "DURAN DURAN",
+    "time": "6:15 - 7:25",
+    "stage": "Lands End",
+    "date": "Aug 5"
+  },
+  {
+    "name": "HIATUS KAIYOTE",
+    "time": "7:50 - 8:35",
+    "stage": "Panhandle",
+    "date": "Aug 5"
+  },
+  {
+    "name": "LCD SOUNDSYSTEM",
+    "time": "8:10 - 9:55",
+    "stage": "Lands End",
+    "date": "Aug 5"
+  },
+  {
+    "name": "NATHANIEL RATELIFF & THE NIGHT SWEATS",
+    "time": "6:30 - 7:20",
+    "stage": "Sutro",
+    "date": "Aug 5"
+  },
+  {
+    "name": "FDVM",
+    "time": "3:00 - 4:30",
+    "stage": "The House by Heineken",
+    "date": "Aug 5"
+  },
+  {
+    "name": "J. COLE",
+    "time": "8:40 - 9:55",
+    "stage": "Twin Peaks",
+    "date": "Aug 5"
+  },
+  {
+    "name": "POLIÇA",
+    "time": "3:40 - 4:30",
+    "stage": "Twin Peaks",
+    "date": "Aug 5"
+  },
+  {
+    "name": "Hound Tall Discussion Series with Moshe Kasher",
+    "time": "3:00 - 3:50",
+    "stage": "The Barbary",
+    "date": "Aug 5"
+  },
+  {
+    "name": "ST. LUCIA",
+    "time": "3:25 - 4:15",
+    "stage": "Lands End",
+    "date": "Aug 5"
+  },
+  {
+    "name": "Anthony Jeselnik, KYLE KINANE AND CLAUDIA O'DOHERTY",
+    "time": "6:45 - 7:50",
+    "stage": "The Barbary",
+    "date": "Aug 5"
+  },
+  {
+    "name": "MARIAN HILL",
+    "time": "12:45 - 1:30",
+    "stage": "Twin Peaks",
+    "date": "Aug 5"
+  },
+  {
+    "name": "GRIMES",
+    "time": "6:50 - 7:50",
+    "stage": "Twin Peaks",
+    "date": "Aug 5"
+  },
+  {
+    "name": "Make It Funky Djs",
+    "time": "12:00 - 1:30",
+    "stage": "The House by Heineken",
+    "date": "Aug 5"
+  }
+]
