@@ -21,8 +21,10 @@ require "sinatra/reloader" if development?
 require 'erb'
 require 'annotate' if development?
 require 'twilio-ruby'
-require 'dotenv' if development?
-Dotenv.load
+if development?
+  require 'dotenv'
+  Dotenv.load
+end
 
 # Some helper constants for path-centric logic
 APP_ROOT = Pathname.new(File.expand_path('../../', __FILE__))
