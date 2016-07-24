@@ -19,7 +19,7 @@ require 'sinatra'
 require "sinatra/reloader" if development?
 
 require 'erb'
-require 'annotate'
+require 'annotate' if development?
 require 'twilio-ruby'
 require 'dotenv'
 Dotenv.load

@@ -14,6 +14,7 @@ gem 'rake'
 
 gem 'shotgun'
 gem 'twilio-ruby'
+gem 'faker'
 
 group :test do
   gem 'shoulda-matchers'
@@ -24,7 +25,6 @@ end
 
 group :test, :development do
   gem 'factory_girl'
-  gem 'faker'
   gem 'dotenv'
   gem 'annotate'
 end
